@@ -1,0 +1,156 @@
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\concrt140.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\cvextern.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\msvcp140.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\vcruntime140.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\concrt140.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\cvextern.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\msvcp140.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\vcruntime140.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\EMT_Lab6.exe.config
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\EMT_Lab6.exe
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\EMT_Lab6.pdb
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.UI.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.World.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ZedGraph.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.UI.xml
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.World.xml
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ZedGraph.xml
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\de\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\es\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\fr\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\hu\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\it\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ja\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\pt\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ru\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\sk\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\sv\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\tr\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.csprojResolveAssemblyReference.cache
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.Form1.resources
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.Properties.Resources.resources
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.GenerateResource.Cache
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.CoreCompileInputs.cache
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.exe
+C:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.pdb
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\concrt140.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\cvextern.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\msvcp140.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\opencv_ffmpeg330_64.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x64\vcruntime140.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\concrt140.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\cvextern.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\msvcp140.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\opencv_ffmpeg330.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\x86\vcruntime140.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\EMT_Lab6.exe.config
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\EMT_Lab6.exe
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\EMT_Lab6.pdb
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.UI.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.World.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ZedGraph.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.UI.xml
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\Emgu.CV.World.xml
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ZedGraph.xml
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\de\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\es\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\fr\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\hu\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\it\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ja\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\pt\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\ru\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\sk\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\sv\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\tr\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.csprojResolveAssemblyReference.cache
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.Form1.resources
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.Properties.Resources.resources
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.GenerateResource.Cache
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.CoreCompileInputs.cache
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.exe
+E:\EMT\EMT_Lab6\EMT_Lab6\obj\Debug\EMT_Lab6.pdb
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x64\concrt140.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x64\cvextern.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x64\msvcp140.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x64\vcruntime140.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x86\concrt140.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x86\cvextern.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x86\msvcp140.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\x86\vcruntime140.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\EMT_Lab6.exe.config
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\EMT_Lab6.exe
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\EMT_Lab6.pdb
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\Emgu.CV.UI.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\Emgu.CV.World.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\ZedGraph.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\Emgu.CV.UI.xml
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\Emgu.CV.World.xml
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\ZedGraph.xml
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\de\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\es\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\fr\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\hu\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\it\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\ja\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\pt\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\ru\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\sk\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\sv\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\tr\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.csprojResolveAssemblyReference.cache
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.Form1.resources
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.Properties.Resources.resources
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.GenerateResource.Cache
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.CoreCompileInputs.cache
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.exe
+C:\EMT\EMT_Lab6 - Copy (2) - Copy\EMT_Lab6\obj\Debug\EMT_Lab6.pdb
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x64\concrt140.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x64\cvextern.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x64\msvcp140.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x64\vcruntime140.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x86\concrt140.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x86\cvextern.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x86\msvcp140.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\x86\vcruntime140.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\EMT_Lab6.exe.config
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\EMT_Lab6.exe
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\EMT_Lab6.pdb
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\Emgu.CV.UI.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\Emgu.CV.World.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\ZedGraph.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\Emgu.CV.UI.xml
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\Emgu.CV.World.xml
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\ZedGraph.xml
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\de\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\es\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\fr\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\hu\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\it\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\ja\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\pt\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\ru\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\sk\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\sv\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\tr\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.csprojResolveAssemblyReference.cache
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.Form1.resources
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.Properties.Resources.resources
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.GenerateResource.Cache
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.csproj.CoreCompileInputs.cache
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.exe
+C:\EMT\EMT_Lab6 legit\EMT_Lab6\obj\Debug\EMT_Lab6.pdb
