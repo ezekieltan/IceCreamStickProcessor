@@ -1,7 +1,7 @@
 # IceCreamStickProcessor
 Analyses characteristics of ice cream sticks in images
 
-*(Requires controlled physical environment lighting, and specific camera equipment to work.)*
+*(Requires controlled physical environment, lighting, and specific camera equipment to work.)*
 
 Sample screenshots below.
 
